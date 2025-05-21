@@ -1,0 +1,15 @@
+C:\Users\Usuario\Downloads\Alura\TesteVS\TesteVS\bin\Debug\net8.0\TesteVS.exe
+C:\Users\Usuario\Downloads\Alura\TesteVS\TesteVS\bin\Debug\net8.0\TesteVS.deps.json
+C:\Users\Usuario\Downloads\Alura\TesteVS\TesteVS\bin\Debug\net8.0\TesteVS.runtimeconfig.json
+C:\Users\Usuario\Downloads\Alura\TesteVS\TesteVS\bin\Debug\net8.0\TesteVS.dll
+C:\Users\Usuario\Downloads\Alura\TesteVS\TesteVS\bin\Debug\net8.0\TesteVS.pdb
+C:\Users\Usuario\Downloads\Alura\TesteVS\TesteVS\obj\Debug\net8.0\TesteVS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\Alura\TesteVS\TesteVS\obj\Debug\net8.0\TesteVS.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\Alura\TesteVS\TesteVS\obj\Debug\net8.0\TesteVS.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\Alura\TesteVS\TesteVS\obj\Debug\net8.0\TesteVS.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Alura\TesteVS\TesteVS\obj\Debug\net8.0\TesteVS.dll
+C:\Users\Usuario\Downloads\Alura\TesteVS\TesteVS\obj\Debug\net8.0\refint\TesteVS.dll
+C:\Users\Usuario\Downloads\Alura\TesteVS\TesteVS\obj\Debug\net8.0\TesteVS.pdb
+C:\Users\Usuario\Downloads\Alura\TesteVS\TesteVS\obj\Debug\net8.0\TesteVS.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\Alura\TesteVS\TesteVS\obj\Debug\net8.0\ref\TesteVS.dll
+C:\Users\Usuario\Downloads\Alura\TesteVS\TesteVS\obj\Debug\net8.0\TesteVS.sourcelink.json

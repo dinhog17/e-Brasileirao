@@ -1,0 +1,92 @@
+[
+  {
+    "Nome": "Internacional",
+    "Pontos": 10,
+    "Vitorias": 3,
+    "Derrotas": 1,
+    "Empate": 1,
+    "Historico": [
+      "Vit\u00F3ria contra Gremio",
+      "Empate com Corinthians",
+      "Derrota para Palmeiras",
+      "Vit\u00F3ria contra Santos",
+      "Vit\u00F3ria contra S\u00E3o Paulo"
+    ],
+    "Resumo": "Internacional: 10 pontos. 3 V, 1 D, 1 E\nVit\u00F3ria contra Gremio\nEmpate com Corinthians\nDerrota para Palmeiras\nVit\u00F3ria contra Santos\nVit\u00F3ria contra S\u00E3o Paulo"
+  },
+  {
+    "Nome": "Gremio",
+    "Pontos": 4,
+    "Vitorias": 1,
+    "Derrotas": 3,
+    "Empate": 1,
+    "Historico": [
+      "Derrota para Internacional",
+      "Derrota para Corinthians",
+      "Derrota para Palmeiras",
+      "Vit\u00F3ria contra Santos",
+      "Empate com S\u00E3o Paulo"
+    ],
+    "Resumo": "Gremio: 4 pontos. 1 V, 3 D, 1 E\nDerrota para Internacional\nDerrota para Corinthians\nDerrota para Palmeiras\nVit\u00F3ria contra Santos\nEmpate com S\u00E3o Paulo"
+  },
+  {
+    "Nome": "Corinthians",
+    "Pontos": 9,
+    "Vitorias": 2,
+    "Derrotas": 0,
+    "Empate": 3,
+    "Historico": [
+      "Empate com Internacional",
+      "Vit\u00F3ria contra Gremio",
+      "Empate com Palmeiras",
+      "Vit\u00F3ria contra Santos",
+      "Empate com S\u00E3o Paulo"
+    ],
+    "Resumo": "Corinthians: 9 pontos. 2 V, 0 D, 3 E\nEmpate com Internacional\nVit\u00F3ria contra Gremio\nEmpate com Palmeiras\nVit\u00F3ria contra Santos\nEmpate com S\u00E3o Paulo"
+  },
+  {
+    "Nome": "Palmeiras",
+    "Pontos": 11,
+    "Vitorias": 3,
+    "Derrotas": 0,
+    "Empate": 2,
+    "Historico": [
+      "Vit\u00F3ria contra Internacional",
+      "Vit\u00F3ria contra Gremio",
+      "Empate com Corinthians",
+      "Vit\u00F3ria contra Santos",
+      "Empate com S\u00E3o Paulo"
+    ],
+    "Resumo": "Palmeiras: 11 pontos. 3 V, 0 D, 2 E\nVit\u00F3ria contra Internacional\nVit\u00F3ria contra Gremio\nEmpate com Corinthians\nVit\u00F3ria contra Santos\nEmpate com S\u00E3o Paulo"
+  },
+  {
+    "Nome": "Santos",
+    "Pontos": 1,
+    "Vitorias": 0,
+    "Derrotas": 4,
+    "Empate": 1,
+    "Historico": [
+      "Derrota para Internacional",
+      "Derrota para Gremio",
+      "Derrota para Corinthians",
+      "Derrota para Palmeiras",
+      "Empate com S\u00E3o Paulo"
+    ],
+    "Resumo": "Santos: 1 pontos. 0 V, 4 D, 1 E\nDerrota para Internacional\nDerrota para Gremio\nDerrota para Corinthians\nDerrota para Palmeiras\nEmpate com S\u00E3o Paulo"
+  },
+  {
+    "Nome": "S\u00E3o Paulo",
+    "Pontos": 4,
+    "Vitorias": 0,
+    "Derrotas": 1,
+    "Empate": 4,
+    "Historico": [
+      "Derrota para Internacional",
+      "Empate com Gremio",
+      "Empate com Corinthians",
+      "Empate com Palmeiras",
+      "Empate com Santos"
+    ],
+    "Resumo": "S\u00E3o Paulo: 4 pontos. 0 V, 1 D, 4 E\nDerrota para Internacional\nEmpate com Gremio\nEmpate com Corinthians\nEmpate com Palmeiras\nEmpate com Santos"
+  }
+]
